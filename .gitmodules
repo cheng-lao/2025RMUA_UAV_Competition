@@ -1,0 +1,9 @@
+[submodule "IntelligentUAVChampionshipSimulator"]
+	path = IntelligentUAVChampionshipSimulator
+	url = https://github.com/RoboMaster/IntelligentUAVChampionshipSimulator.git
+[submodule "submodule/Tc-Stereo"]
+	path = submodule/Tc-Stereo
+	url = https://github.com/jiaxiZeng/Temporally-Consistent-Stereo-Matching.git
+[submodule "submodule/Vit-for-quadrotor-obstacle-avoidance"]
+	path = submodule/Vit-for-quadrotor-obstacle-avoidance
+	url = https://github.com/anish-bhattacharya/ViT-for-quadrotor-obstacle-avoidance.git
